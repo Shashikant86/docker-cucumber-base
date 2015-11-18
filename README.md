@@ -18,4 +18,4 @@ Note : PhantomJS 2.0.0 isn't stable enough with Linux
 
 ## How to use this image in Cucumber project
 
-Coming Soon ..
+
